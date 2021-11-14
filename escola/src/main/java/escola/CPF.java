@@ -1,5 +1,8 @@
 package escola;
 
+import lombok.Getter;
+
+@Getter
 public class CPF {
 	
 	private String numero;
